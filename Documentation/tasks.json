@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create the main agent file",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "title": "Integrate with Gemini",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "title": "API Key Management",
+      "status": "done"
+    },
+    {
+      "id": 4,
+      "title": "Function Calling",
+      "status": "done"
+    },
+    {
+      "id": 5,
+      "title": "Dependency Management",
+      "status": "done"
+    },
+    {
+      "id": 6,
+      "title": "Add geolocation feature",
+      "status": "done"
+    },
+    {
+      "id": 7,
+      "title": "Create documentation",
+      "status": "in progress"
+    }
+  ]
+}
